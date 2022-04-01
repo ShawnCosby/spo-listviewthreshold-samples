@@ -55,7 +55,6 @@
   <ItemGroup>
     <Compile Include="ClientContextExtensions.cs" />
     <Compile Include="ClientContextUtility.cs" />
-    <Compile Include="LvtTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ListViewThresholdExamples.cs" />
